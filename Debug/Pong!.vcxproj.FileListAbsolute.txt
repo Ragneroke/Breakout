@@ -1,0 +1,2 @@
+C:\Users\gliu1\source\repos\Pong!\Debug\Pong!.exe
+C:\Users\gliu1\source\repos\Pong!\Debug\Pong!.pdb
